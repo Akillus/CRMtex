@@ -20,5 +20,5 @@ This and other similar peculiarities render particularly arduous the study and d
 The extension provides tools for managing this kind of complexity by defining classes and properties for describing an hand written text in all its aspects, from its creation (and/or destruction) in the past, down to its present conservation, investigation and study by scholars, including its transcription, translation, interpretation and publication.
 
 ### CRMtex Documentation
-Plese read the full CRMtex documentation here: http://cidoc-crm/crmtex[link](http://cidoc-crm/crmtex)
+Plese read the full CRMtex documentation on the official CRMtex @ CIDOC CRM website: http://cidoc-crm/crmtex
 
