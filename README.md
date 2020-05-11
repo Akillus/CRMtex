@@ -1,6 +1,7 @@
 # CRMtex - An Extension of CIDOC CRM to Model Ancient Textual Entities
 
-# What is CRMtex
+What is CRMtex
+==============
 
 CRMtex is an extension of CIDOC CRM created to support the study of ancient documents by identifying relevant textual entities and by modelling the scientific process related with the investigation of ancient texts and their features in order to foster integration with other cultural heritage research fields, such as archaeology and history. The concept of “written text”, introduced by the extension, is intended to identify a common entity consisting in a particular feature (i.e., set of glyphs) created (i.e., written) on various kinds of support, having semiotic significance and the declared purpose of conveying a specific message towards a given recipient or group of recipients. The modelling of the scientific autoptic examination of the document, consisting of an accurate analysis of the surface and the signs and prescribing the use of specific tools and procedures, is another key aspect taken into account by the extension.
 
