@@ -1,5 +1,4 @@
-# CRMtex
-# An Extension of CIDOC CRM to Model Ancient Textual Entities
+# CRMtex - An Extension of CIDOC CRM to Model Ancient Textual Entities
 
 # What is CRMtex
 
